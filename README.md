@@ -21,7 +21,7 @@ Project as part of internship: data preprocessing and exploratory data analysis 
 - Environment: Google Colab
 
 ## Data Source
-[Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset) from Kaggle (or whatever source you used).
+[Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset) from Kaggle.
 
 ## How to Run
 1. Clone the repository or download the files.
