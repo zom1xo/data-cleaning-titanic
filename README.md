@@ -30,4 +30,4 @@ Project as part of internship: data preprocessing and exploratory data analysis 
 4. Run all cells.
 
 ## Author
-[Alan Raju](https://www.linkedin.com/in/alan-raju-09bb0040a) | [GitHub](https://github.com/zom1xo)
+[LinkedIn](https://www.linkedin.com/in/alan-raju-09bb0040a) | [GitHub](https://github.com/zom1xo)
