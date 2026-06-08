@@ -28,3 +28,6 @@ Project as part of internship: data preprocessing and exploratory data analysis 
 2. Open the `.ipynb` file in Google Colab or Jupyter Notebook.
 3. Ensure the dataset `Titanic-Dataset.csv` is in the same directory (or adjust the path).
 4. Run all cells.
+
+## Author
+[Alan Raju](https://www.linkedin.com/in/alan-raju-09bb0040a) | [GitHub](https://github.com/zom1xo)
